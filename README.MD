@@ -1,10 +1,15 @@
-acceder à mysql via le termianl éxécuter :
+Le fichier user.sql comprend des annotations qui peuvent être utiles au correcteur.
+
+Le fichier CimenaNoAnot.sql le travail demandé sans annotation.
+
+Le fichier diagramme.pdf comprend le diagramme uml demandé en énoncé effectué grace à la méthode merise.
+
+Acceder à mysql via le termianl éxécuter :
 
     -> mysql -u <username> -p
 
 entrer le mot de passe demandé selon la configuration utilisateur/mot de passe avec laquelle vous souhaitez vous connecter.
-une fois dans mysql éxécuter le script fourni dans CinemaNoAnot.sql. Le fichier user.sql comprend des annotations qui peuvent être utiles au correcteur. 
-
+une fois dans mysql éxécuter le script fourni dans CinemaNoAnot.sql.
 afin d'exporter le travail dans un fichier en local :
 
     -> exit
