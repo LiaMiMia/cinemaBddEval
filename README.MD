@@ -1,4 +1,4 @@
-Le fichier user.sql comprend des annotations qui peuvent être utiles au correcteur.
+Le fichier Cinema.sql comprend des annotations qui peuvent être utiles au correcteur.
 
 Le fichier CimenaNoAnot.sql le travail demandé sans annotation.
 
