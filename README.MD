@@ -3,7 +3,7 @@ acceder à mysql via le termianl éxécuter :
     -> mysql -u <username> -p
 
 entrer le mot de passe demandé selon la configuration utilisateur/mot de passe avec laquelle vous souhaitez vous connecter.
-une fois dans mysql éxécuter le script fourni dans CinemaNoAnot.sql
+une fois dans mysql éxécuter le script fourni dans CinemaNoAnot.sql. Le fichier user.sql comprend des annotations qui peuvent être utiles au correcteur. 
 
 afin d'exporter le travail dans un fichier en local :
 
